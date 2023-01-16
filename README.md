@@ -947,7 +947,8 @@ No technical skills or software download required.</p>
 | [Wizishop](http://wizishop.com) | Wizishop Ecommerce Solution: Create Your Online Store. | 15-day free trial - No credit card needed - Access all of our features. | :white_check_mark: |
 | [Word Spinner](http://word-spinner.com) | Word Spinner: The Best Free Article Rewriter And Paraphrase Tool Online. | . | :white_check_mark: |
 | [Wordfixerbot](http://www.wordfixerbot.com) | Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot. | . | :grey_question: |
-| [Wordtune](http://www.wordtune.com) | Wordtune - Your Personal Writing Assistant & Editor. | . | :grey_question: |
+| [Wordtune](http://www.wordtune.com) | Wordtune - Your Personal Writing Assistant & Editor. | An AI-based writing assistant capable of catching errors, suggesting rewrites of entire sentences and paragraphs in a variety of tones and formats, as well as generating text based on the writer’s specific needs. 
+ | :white_check_mark: |
 | [Write A Thank You](http://thankyounote.app) | Write A Thank You Note - Thankyounote.App. | Write the perfect thank you note for any occasion! Whether you need to thank a friend, family member, or business associate, we have the perfect words for you. Try it!. | :grey_question: |
 | [Writefull Academizer](http://x.writefull.com) | Writefull X: Ai Applied To Academic Writing. | . | :grey_question: |
 | [Writelyai](http://www.writelyai.com) | Writely - Using Ai To Improve Your Writing. | . | :grey_question: |
